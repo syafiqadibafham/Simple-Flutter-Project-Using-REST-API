@@ -1,4 +1,4 @@
-# colors
+# Simple Flutter Project Using REST API
 
 A simple Flutter project to use 3rd Party REST API (Star Wars Characters).
 
