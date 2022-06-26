@@ -1,6 +1,6 @@
 # colors
 
-A new Flutter project.
+A simple Flutter project to use 3rd Party REST API (Star Wars Characters).
 
 ## Getting Started
 
